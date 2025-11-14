@@ -12,3 +12,4 @@ def preprocess_data(data, testSize):
     de test"""
     train, test = train_test_split(data, test_size = testSize)
     return train, test
+print("Prétraitement des données lancé (modification Étudiant B)")
