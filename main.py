@@ -27,4 +27,9 @@ test_y =test.Species
 
 model = svm.SVC()
 prediction = train_model(train_X, train_y, test_X, model)
+
 print ("EtudiantA")
+
+print("étudiant B")
+
+
